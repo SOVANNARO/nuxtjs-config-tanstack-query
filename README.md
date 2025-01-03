@@ -1,0 +1,1 @@
+## Nuxt JS Config Tanstack Query
